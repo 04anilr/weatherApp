@@ -1,2 +1,8 @@
-# weatherApp
-The React Weather App is your go-to solution for staying informed about the latest weather conditions in your area and around the world. Developed using the React framework, this application combines a sleek and modern user interface with powerful data-fetching capabilities, delivering an exceptional user.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
